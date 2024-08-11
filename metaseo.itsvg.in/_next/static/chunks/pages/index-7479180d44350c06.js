@@ -72,7 +72,7 @@
             "w-full flex justify-start items-center relative text-4xl sm:text-5xl font-bold text-zinc-500 dark:text-cyan-200 text-cyan-900",
           children: [
             (0, s.jsx)("a", {
-              href: "websitename",
+              href: "https://main--myseo-drs.netlify.app/",
               className: "",
               children: "mySEO",
             }),
@@ -1575,7 +1575,7 @@
                 (0, s.jsx)("meta", { property: "og:type", content: "website" }),
                 (0, s.jsx)("meta", {
                   property: "og:url",
-                  content: "websitelink",
+                  content: "https://main--myseo-drs.netlify.app/",
                 }),
                 (0, s.jsx)("meta", {
                   property: "og:title",
@@ -1597,7 +1597,7 @@
                 }),
                 (0, s.jsx)("meta", {
                   property: "twitter:url",
-                  content: "websitelink",
+                  content: "https://main--myseo-drs.netlify.app/",
                 }),
                 (0, s.jsx)("meta", {
                   property: "twitter:title",
